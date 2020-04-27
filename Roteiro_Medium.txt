@@ -1,0 +1,37 @@
+###INTRO - Analyzing Seattle and Boston AirBnb databases
+
+- onde consegui os dados.
+- que tipos de informações foram colhidas
+
+####ANALYSIS
+
+Just some things we can discover analysing the dataset
+
+Trying to predict some prices
+
+Going a little bit further -- sentiment analysis, a beginning.
+
+Sentiment Analysis - Our own model
+
+
+###RECAP DATA ANALYSIS IMPORTANCE
+
+
+
+
+
+### PERGUNTAS
+
+- O que enxergamos de diferente entre Seattle e Boston em relação aos preços e de algumas variáveis?
+- Dentro de Seattle, quais os bairros com mais anúncios? Quais os preços médios dos bairros?
+- Feito isso, existe alguma forma de utilizar os dados disponíveis para tentar prever o preço de um imóvel?
+(fatores que influenciam a formação de preço de acordo com outros artigos encontrados)
+
+
+- Sentiment Analysis: uma introdução possível.
+- Curando os reviews para positivo ou negativo. --> criando uma análise similiar a ** (escolher um paper).
+
+
+- talvez tentar entender se o texto de título ou de description tem algum efeito a partir de quão positivo
+ou neutro o texto é.... para isso vai ser foda tentar construir um modelo (EXTRA)
+
